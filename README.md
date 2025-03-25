@@ -8,3 +8,6 @@ The repository contains three folders:
 - Script: contains the code to produce the manuscript figures
 - Results: Contains the Manuscript figures
 - Manuscript: Contains the manuscript in different languages
+
+[Figure 2](https://github.com/erolafr/AIForInvasionBiology_Ecosistemas/blob/main/Results/Figure2.jpg)
+![screenshot](Results/Figure2.jpg)
